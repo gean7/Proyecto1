@@ -13,7 +13,7 @@ export class Tab1Page implements OnInit{
     let numero = 10;
     numero = 20;
     numero = numero + 10;
-    numero = 1;
+    numero = 3;
     console.log(numero);
   }
 
